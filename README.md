@@ -7,5 +7,5 @@ I :heart: code
 
 - I'm currently working on [MercadoLibre](https://www.mercadolibre.com)
 - I'm currently learning and improving on Frontend and [ReactJS](https://reactjs.org/)
-- How to reach me: nicotorresel@gmail.com and [Linkedin](https://wwww.linkedin.com/nicotorresel/) 
+- How to reach me: nicotorresel@gmail.com and [Linkedin](https://www.linkedin.com/in/nicotorresel/) 
 
