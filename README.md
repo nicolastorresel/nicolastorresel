@@ -1,4 +1,4 @@
-### Hi there 👋 It's [nicotorresel](https://www.linkedin.com/nicotorresel/)
+### Hi there 👋 It's [nicotorresel](https://www.linkedin.com/in/nicotorresel/)
 
 I'm a Junior Developer trying to gain experience and Knowledge in Frontend and Web Development, Also trying to specialize in [React](https://reactjs.org/).
 
